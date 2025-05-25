@@ -1,6 +1,3 @@
 # H1 Header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-...
-$ git init
-Intitiallized empty Git repository in /User/skills/Projects/recipe-repository/.git
-...
+var myVar = "Hello, world!";
